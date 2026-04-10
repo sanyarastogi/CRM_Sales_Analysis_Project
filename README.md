@@ -8,6 +8,7 @@
 - [CRM CLEANED DATASETS](./CRM_Cleaned_Dataset)
 - [SQL ANALYSIS](CRM_Sales_Ananlysis.sql)
 - [EXCEL ANALYSIS](CRM_analysis.xlsx)
+- [POWER BI](CRM_Sales_Analysis_Dashboard.pbix)
 - [DASHBOARD_PREVIEW](./Dashboard_Preview)
  --- 
 # Tools Used 
@@ -21,8 +22,8 @@
 - Standardized revenue format.
 - Checked duplicates values.
 - Built data model with relationships across 4 tables.
-- Make pivot table from data model
-- make charts out of pivot table
+- Made pivot table from data model
+- made charts out of pivot table
 ---
 # Key Analysis
 

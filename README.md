@@ -3,7 +3,7 @@
 # Overview
 - This project explores a B2B CRM sales dataset to analyze revenue trends, sales team performance, product effectiveness, and pipeline risks. Using Excel for data preparation, SQL for advanced analysis, and Power BI for visualization, the project delivers actionable insights and recommendations to improve win rates and drive revenue growth.
 ---
-# Project_Assests
+# Project_Assets
 - [CRM RAW DATASETS](./CRM_RAW_Dataset)
 - [CRM CLEANED DATASETS](./CRM_Cleaned_Dataset)
 - [SQL ANALYSIS](CRM_Sales_Ananlysis.sql)
